@@ -1,0 +1,40 @@
+.candidate-form {
+    background-color: #1b2a4e; /* Couleur de fond similaire */
+    color: white; /* Texte en blanc */
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.candidate-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.candidate-form input[type="text"],
+.candidate-form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.candidate-form input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.candidate-form button {
+    background-color: #00afef; /* Bouton de couleur similaire */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.candidate-form button:hover {
+    background-color: #008bbd;
+}

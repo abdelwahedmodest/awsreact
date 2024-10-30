@@ -1,9 +1,9 @@
-
+import Impact from "./Components/Impact";
 
 function App() {
   return (
     <div>
-      Learn Reacttestt
+      <Impact/>
 
     </div>
           

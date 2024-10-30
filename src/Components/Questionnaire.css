@@ -1,0 +1,40 @@
+.questionnaire-container {
+    background-color: #1a237e;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.questionnaire-container h1 {
+    color: white;
+}
+
+.questionnaire-container label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.questionnaire-container input,
+.questionnaire-container select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.questionnaire-container button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.questionnaire-container button:hover {
+    background-color: #45a049;
+}
